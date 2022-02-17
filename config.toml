@@ -1,0 +1,3 @@
+Ip='localhost:8080'
+Address='habr.com'
+CacheSize=700
